@@ -1,6 +1,8 @@
 # 240213-speech-synthesis
   A graphical frontend for utilising the Windows Speech Synthesis Engine with some additional features.
 
+  Watch a short demo here: https://youtu.be/obXsiZ-gVV4
+
   <h3>Features</h3>
   
   <ul>
